@@ -20,7 +20,7 @@
 
 ### 🧑‍💼 Employee Dashboard
 
-<img src="employees-dashboard.png" alt="Employee Dashboard" width="100%" style="border-radius:12px; box-shadow: 0 4px 24px rgba(0,0,0,0.12);" />
+<img src="./employees-dashboard.png" alt="Employee Dashboard" width="100%" />
 
 > All team members with skill profiles, real-time rankings, department filters, and search.
 
